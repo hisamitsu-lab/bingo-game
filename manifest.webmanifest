@@ -1,0 +1,11 @@
+{
+  "name": "ビンゴ ルーレットマシーン",
+  "short_name": "ビンゴ",
+  "description": "1〜75を重複なく抽選するオフライン対応ビンゴ抽選機",
+  "lang": "ja",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#fff8ed",
+  "theme_color": "#fff8ed",
+  "icons": [{ "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }]
+}
